@@ -1,0 +1,11 @@
+Bin 0: Accuracy: 0.0, Confidence: 0.042383142052573236, Size: 5.0
+Bin 1: Accuracy: 0.4, Confidence: 0.15417914445401074, Size: 5.0
+Bin 2: Accuracy: 0.25, Confidence: 0.2587721194194615, Size: 4.0
+Bin 3: Accuracy: 0.6666666666666666, Confidence: 0.34830221747825685, Size: 6.0
+Bin 4: Accuracy: 0.3333333333333333, Confidence: 0.4468305910317114, Size: 6.0
+Bin 5: Accuracy: 0.18181818181818182, Confidence: 0.5607776600982203, Size: 11.0
+Bin 6: Accuracy: 0.42857142857142855, Confidence: 0.6695548409241537, Size: 14.0
+Bin 7: Accuracy: 0.40625, Confidence: 0.7621745247485131, Size: 32.0
+Bin 8: Accuracy: 0.463768115942029, Confidence: 0.858815289568259, Size: 69.0
+Bin 9: Accuracy: 0.5218093699515347, Confidence: 0.9751653679490826, Size: 619.0
+ECE: 0.4291631689671263
