@@ -1,7 +1,7 @@
 # Gender-ECE
 
 [![Website](https://img.shields.io/badge/website-live-brightgreen)](https://ahmed.jp/project_page/cal_gece_2026/gece.html)
-[![AAAI-2026 AISI Track](https://img.shields.io/badge/AAAI--2026-AISI%20Track-blue)](https://aaai.org)
+[![AAAI-2026 AISI Track](https://img.shields.io/badge/AAAI--2026-AISI%20Track-blue)](https://aaai.org) [![arXiv](https://img.shields.io/badge/arXiv-2601.07806-b31b1b.svg)](https://arxiv.org/abs/2601.07806)
 
 
 This repository contains the implementation of the paper [The Confidence Trap: Gender Bias and Predictive Certainty in LLMs]().
