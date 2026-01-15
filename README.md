@@ -28,6 +28,25 @@ python code/main.py   --dataset data/winobias.csv   --model_name Qwen/Qwen2.5-7B
 ```
 
 
+## Citation
 
+The details of this repo are described in the following paper. If you find this repo useful, please kindly cite it:
+
+```bibtex
+@article{sabir2026confidence,
+  title={The Confidence Trap: Gender Bias and Predictive Certainty in LLMs},
+  author={Sabir, Ahmed and K{\"a}ngsepp, Markus and Sharma, Rajesh},
+  journal={arXiv preprint arXiv:2601.07806},
+  year={2026}
+}
+```
+
+<!--
 ### Acknowledgement
 This work was supported by the Estonian Research Council grant “Developing human-centric digital solutions” (TEM TA120) and by the Estonian Centre of Excellence in Artificial Intelligence (EXAI), funded by the Estonian Ministry of Education and Research and co-funded by the European Union and the Estonian Research Council via project TEM TA119. It was funded by the EU H2020 program under the SoBigData++ project (grant agreement No. 871042) and partially funded by the HAMISON project.
+-->
+
+<!--
+### Acknowledgement
+This work was supported by the Estonian Research Council grant “Developing human-centric digital solutions” (TEM TA120) and by the Estonian Centre of Excellence in Artificial Intelligence (EXAI), funded by the Estonian Ministry of Education and Research and co-funded by the European Union and the Estonian Research Council via project TEM TA119. It was funded by the EU H2020 program under the SoBigData++ project (grant agreement No. 871042) and partially funded by the HAMISON project.
+-->
